@@ -30,7 +30,7 @@ First build the image and tag it with a name.
 
 # Check
 
-Chek that your image is listed among other docker images on your system.
+Check that your image is listed among other docker images on your system.
 
     $ docker images
     REPOSITORY                      TAG       IMAGE ID       CREATED       SIZE
