@@ -2,6 +2,9 @@
 
 An example app that prints a hello message.
 
+You can download the built image from Docker Hub:
+
+    docker pull gulangurman/docker-echo-hello:latest
 
 # Build
 
